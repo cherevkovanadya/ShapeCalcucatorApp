@@ -1,0 +1,10 @@
+C:\Users\nadya\OneDrive\Рабочий стол\Учеба\C# ЛАБЫ\ShapeCalculatorApp\ShapeCalculatorApp\obj\Debug\ShapeCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\nadya\OneDrive\Рабочий стол\Учеба\C# ЛАБЫ\ShapeCalculatorApp\ShapeCalculatorApp\obj\Debug\ShapeCalculatorApp.Form1.resources
+C:\Users\nadya\OneDrive\Рабочий стол\Учеба\C# ЛАБЫ\ShapeCalculatorApp\ShapeCalculatorApp\obj\Debug\ShapeCalculatorApp.Properties.Resources.resources
+C:\Users\nadya\OneDrive\Рабочий стол\Учеба\C# ЛАБЫ\ShapeCalculatorApp\ShapeCalculatorApp\obj\Debug\ShapeCalculatorApp.csproj.GenerateResource.cache
+C:\Users\nadya\OneDrive\Рабочий стол\Учеба\C# ЛАБЫ\ShapeCalculatorApp\ShapeCalculatorApp\obj\Debug\ShapeCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\nadya\OneDrive\Рабочий стол\Учеба\C# ЛАБЫ\ShapeCalculatorApp\ShapeCalculatorApp\bin\Debug\ShapeCalculatorApp.exe.config
+C:\Users\nadya\OneDrive\Рабочий стол\Учеба\C# ЛАБЫ\ShapeCalculatorApp\ShapeCalculatorApp\bin\Debug\ShapeCalculatorApp.exe
+C:\Users\nadya\OneDrive\Рабочий стол\Учеба\C# ЛАБЫ\ShapeCalculatorApp\ShapeCalculatorApp\bin\Debug\ShapeCalculatorApp.pdb
+C:\Users\nadya\OneDrive\Рабочий стол\Учеба\C# ЛАБЫ\ShapeCalculatorApp\ShapeCalculatorApp\obj\Debug\ShapeCalculatorApp.exe
+C:\Users\nadya\OneDrive\Рабочий стол\Учеба\C# ЛАБЫ\ShapeCalculatorApp\ShapeCalculatorApp\obj\Debug\ShapeCalculatorApp.pdb
